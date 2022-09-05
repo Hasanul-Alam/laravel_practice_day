@@ -1,0 +1,93 @@
+/**{*/
+/*    box-sizing: border-box;*/
+/*    margin: 0;*/
+/*    padding: 0;*/
+/*}*/
+#banner-section{
+    height: 550px;
+    background-image: url("../img/31214.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.banner-caption{
+    width: 550px;
+    height: 350px;background-color: white;
+    margin-top: 90px;
+    padding: 10px;
+}
+.banner-caption-title{
+    font-size: 60px;
+    font-weight: bold;
+}
+.btn{
+    border-radius: 0;
+}
+
+.h-300{height: 300px!important;}
+.counter-section{
+    background-image: url("../img/bg.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.experience-bg{
+    min-height: 500px;
+    background-image: url("../img/ng-ex.jpg");
+    background-size: cover;
+    background-position: center;
+}
+.text-experience{
+    color: #C5D4E9;
+    font-size: 60px;
+}
+.experience-margin{
+    margin-top: 100px;
+    padding-right: 100px;
+    padding-left: 40px;
+}
+
+.line{
+    width: 10%;
+    height: 3px;
+    background-color: gray;
+    margin: 10px auto;
+}
+
+.team-section{
+    background-image: url("../img/Untitled1.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.contact-image{
+    background-image: url("../img/1092.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.big-footer-section{
+    background-color: #0d235a;
+}
+
+.icons{
+    float: left;
+}
+.underline{
+    width: 100%;
+    height: 1px;
+    background-color: #808080;
+}
+.main-footer-section{
+    background-color: rgba(0, 0, 0, 0.84);
+}
+.text-gray{
+    color: gray;
+}
+.icons i{
+    transition: 0.4s;
+}
+.icons i:hover{
+    transform: scale(1.5);
+}
